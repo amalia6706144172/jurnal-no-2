@@ -22,12 +22,12 @@ public class N02 {
         Scanner am = new Scanner(System.in);
         System.out.println(" masukan angka ");
         int c = am.nextInt();
-         for(int x=n; x>=1; x--)
+         for(int c=a; x>=1; x--)
   {
-   for(int y=x-1; y>=1; y--){
+   for(int =c-1; y>=1; y--){
     System.out.print(" ");
    }
-   for(int z=1; z<=((n+1)-x)*2; z++){
+   for(int e=1; f<=((n+1)-g)*2; z++){
     System.out.print("*");
    }
   System.out.println();
